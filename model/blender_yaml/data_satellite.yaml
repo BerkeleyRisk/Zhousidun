@@ -1,0 +1,6 @@
+train: ../satellite/images
+val: ../satellite/images
+
+nc: 1
+names: 
+  0: aegis
