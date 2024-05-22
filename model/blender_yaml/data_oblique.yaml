@@ -1,0 +1,6 @@
+train: ../oblique/images
+val: ../oblique/images
+
+nc: 1
+names: 
+  0: aegis
